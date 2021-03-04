@@ -9,5 +9,5 @@
   cin >> a;
   cout << "masukkan angka kedua : ";
   cin >> b;
-  cout<<"perkalian = " <<a * b << endl;
+  cout<<"pembagian = " <<a / b << endl;
   }
